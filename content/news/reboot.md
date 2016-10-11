@@ -4,7 +4,7 @@ Today marks a new beginning for 'Project Hamster'. After several months of
 resting in a dormant state 'Project Hamster' is happy and proud to announce that
 its hibernation has ended.
 
-Over this past weekend the original creator (Tom Baugis)[https://github.com/tbaugis)
+Over this past weekend the original creator [Tom Baugis](https://github.com/tbaugis)
 took me [elbenfreund](https://github.com/elbenfreund/) up by my offer to take over
 this project. For the last couple of months I have been working on a private rewrite
 of hamsters underlying codebase in an effort to make it more pythonic, standards compliant
